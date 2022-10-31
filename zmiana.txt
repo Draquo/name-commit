@@ -1,3 +1,6 @@
 zobaczymy jaki bedzie podpis
 no to zoabaczymy    
+<<<<<<< HEAD
 a teraz 
+=======
+>>>>>>> 8f271a12691a02536cd1fd808dca65f987edb24e
